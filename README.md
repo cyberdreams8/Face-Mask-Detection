@@ -9,8 +9,11 @@ This project implements a **Convolutional Neural Network (CNN)** to classify whe
 
 - `Face_Mask_Classification_using_CNN.ipynb`: Main Jupyter notebook with code and outputs
 - Dataset: Structured as:
+  
 ├── Dataset/
+
 ├── with_mask/
+
 └── without_mask/
 
 
