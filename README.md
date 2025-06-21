@@ -49,31 +49,23 @@ pip install tensorflow keras numpy matplotlib sklearn
 ```
 
 ## 🧠 Model Architecture
-Conv2D layers with ReLU activation
+- Conv2D layers with ReLU activation
+- MaxPooling2D
+- Flatten
+- Dense layers for classification
+- Softmax output layer
 
-MaxPooling2D
-
-Flatten
-
-Dense layers for classification
-
-Softmax output layer
 
 ## 📈 Results
-Model trained for 10 epochs
-
-Achieved over 97% accuracy on validation data
-
-Plotted training/validation loss and accuracy curves
+- Model trained for 10 epochs
+- Achieved over 97% accuracy on validation data
+- Plotted training/validation loss and accuracy curves
 
 ## 📌 Example Use Case
 This model can be used in:
-
-Real-time surveillance systems to detect face mask usage
-
-Embedded in mobile or edge devices for COVID-19 safety compliance
-
-Integrated into security checkpoints for automated monitoring
+- Real-time surveillance systems to detect face mask usage
+- Embedded in mobile or edge devices for COVID-19 safety compliance
+- Integrated into security checkpoints for automated monitoring
 
 
 ## 🌐 Acknowledgements
